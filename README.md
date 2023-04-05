@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-# Vue 3
+# Angular
 
 프론트엔드 JavaScript 프레임워크 Angular 템플릿입니다.
 
