@@ -1,27 +1,27 @@
-# ExampleAngular
+<br/>
+<br/>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+<p align="center">
+<img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
+</p>
 
-## Development server
+<br/>
+<br/>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Vue 3
 
-## Code scaffolding
+프론트엔드 JavaScript 프레임워크 Angular 템플릿입니다.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## 💬 문제해결
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [클라우드타입 Docs](https://docs.cloudtype.io/)
 
-## Running unit tests
+- [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Discord](https://discord.gg/U7HX4BA6hu)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 📄 License
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[MIT](https://github.com/angular/angular/blob/main/LICENSE)
